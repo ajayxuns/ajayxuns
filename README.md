@@ -52,3 +52,35 @@
   - **Continued to Learn and Share:** Leveraged platforms like LinkedIn to share knowledge and grow your network.
     
 </details>
+
+  <summary>🌍 Outside Tech</summary>
+  - Content Creator: Engaged and grew an audience to 3k+ followers on LinkedIn.
+  - Team Collaboration: Worked with diverse groups in various projects and events.
+</details>
+
+
+
+
+
+
+<!--Languages & tools-->
+<h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
+
+<table align="center">
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
+</tr>
+
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=github,vscode&theme=dark"></td>
+</tr>
+
+</table>
+<br>
