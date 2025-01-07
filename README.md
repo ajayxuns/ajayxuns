@@ -1,43 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ajay+Bankar!;" />
-</h1>
-
-<h3 align="center">A passionate full stack developer from India </h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React... or anything [here](https://github.com/ajayxuns)**
-
-⚡ Fun fact **Did you know the first computer virus was created in 1983? It was called "Elk Cloner" and was designed as a prank to infect Apple II computers!**
-
- </div>
-
-<div align="center"> 
-  <a href="mailto:ajaybankar0106@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/ajaybankar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-
+ <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/neerugangarh/" target="_blank">Ajay</h1> 
+     
+<div id="header" align="center">  
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql" /><br>
-</div>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;Full+Stack+Developer;Passionate+about+Coding!)](https://git.io/typing-svg)
 
-<br/>
-<hr/>
+</div>
