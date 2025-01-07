@@ -54,8 +54,7 @@
 </details>
 
   <summary>🌍 Outside Tech</summary>
-  - Content Creator: Engaged and grew an audience to 3k+ followers on LinkedIn.
-  - Team Collaboration: Worked with diverse groups in various projects and events.
+   I focus on content creation and enjoy collaborating with teams.
 </details>
 
 
@@ -69,7 +68,7 @@
 <table align="center">
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=js&theme=dark"></td>
 </tr>
 
 <tr>
