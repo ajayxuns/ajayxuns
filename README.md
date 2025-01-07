@@ -19,3 +19,8 @@
 <a href="https://leetcode.com/u/ajayxuns/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
 </p>
 <h4 align="center"> 📩 Get in touch: <a href="mailto:ajaybankar0106@gmail.com">ajaybankar0106@gmail.com</a> </h4>
+<!--view count-->
+<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=neeru24&&style=for-the-badge" /> </p>
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
