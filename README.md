@@ -15,3 +15,7 @@
 
 <p align="center">
     Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
+<a href="https://www.linkedin.com/in/ajaybankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajaybankar" height="40" width="50" /></a>
+<a href="https://leetcode.com/u/ajayxuns/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
+</p>
+<h4 align="center"> 📩 Get in touch: <a href="mailto:ajaybankar0106@gmail.com">ajaybankar0106@gmail.com</a> </h4>
