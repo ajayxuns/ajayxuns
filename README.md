@@ -95,8 +95,8 @@
     
   </summary>
   <div align="center">
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajayxuns&theme=github_dark&utcOffset=8" />
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajayxuns&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neeru24&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeru24&theme=github_dark" />
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeru24&theme=github_dark" />
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neeru24&theme=github_dark" />
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeru24&theme=github_dark" />
