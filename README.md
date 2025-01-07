@@ -83,3 +83,11 @@
 
 </table>
 <br>
+
+<!-- Dropdown for More Stats -->
+<div align="center" style="max-width: 600px; margin: auto;">
+<details>
+  <summary>
+    <h3>
+        Check Out More Stats ✨📊
+    </h3>
