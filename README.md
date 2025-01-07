@@ -24,3 +24,19 @@
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div align="center">
+<h2 align="center"> 💻 About Me </h2>
+
+
+</div>
+
+<details>
+  <summary>🚀 Open Source Contributions</summary>
+	
+- **GirlScript Summer of Code 2024:** Successfully completed the program 🏅
+- **Hacktoberfest 2024**
+- **30 Days of Google Cloud:** Completed with badges 🖥️
+- **Open Source Contributor:** Participated in various projects 🌟
+	
+</details>
