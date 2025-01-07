@@ -92,12 +92,4 @@
         Check Out More Stats ✨📊
     </h3>
 
-    
-  </summary>
-  <div align="center">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeru24&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeru24&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neeru24&theme=github_dark" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeru24&theme=github_dark" />
-  </div>
-  <br>
+
