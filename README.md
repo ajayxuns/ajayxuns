@@ -40,3 +40,10 @@
 - **Open Source Contributor:** Participated in various projects 🌟
 	
 </details>
+
+<details>
+  <summary>🧑‍💻 My Coding Journey</summary>
+	
+  - **100+ days of code** of sharing insights on JavaScript
+    
+</details>
