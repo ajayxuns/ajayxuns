@@ -45,5 +45,10 @@
   <summary>🧑‍💻 My Coding Journey</summary>
 	
   - **100+ days of code** of sharing insights on JavaScript
+  - **Started with the Basics:** Learned foundational programming languages like JavaScript and Python.
+  - **Explored Web Development:** Built projects using HTML, CSS, JavaScript, and frameworks like React.
+  - **Participated in Open Source:** Contributed to repositories through initiatives like Hacktoberfest 2024 and GirlScript Summer of Code 2024.
+  - **Built Personal Projects:** Developed and deployed projects showcasing creativity and technical expertise.
+  - **Continued to Learn and Share:** Leveraged platforms like LinkedIn to share knowledge and grow your network.
     
 </details>
