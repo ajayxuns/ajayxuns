@@ -1,4 +1,4 @@
- <h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/neerugangarh/" target="_blank">Ajay</h1> 
+<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/neerugangarh/" target="_blank">Ajay</h1> 
      
 <div id="header" align="center">  
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
@@ -27,9 +27,32 @@
 
 <div align="center">
 <h2 align="center"> 💻 About Me </h2>
-
-
 </div>
+
+<details>
+  <summary>📌 Latest Work & Achievements</summary>
+
+- 🚀 **Noir Vogue** – A modern fashion e-commerce website (Frontend completed, Backend in progress)  
+  🔗 [Live Demo](https://noirvogue.netlify.app)  
+  🛠️ Built using React, Tailwind CSS – mobile-responsive, sleek design  
+  💬 Shared on LinkedIn & currently collecting user feedback!
+
+- 🔥 **MERN or Burn: 35-Day Challenge** – Completed a self-imposed full-stack learning sprint  
+  📦 Built several MERN stack projects including an Airbnb clone and more  
+  🧠 Focused deeply on mastering backend and React-based frontend development.
+
+- 🎯 **5-Day Project Showcase Challenge** – Currently showcasing 5 unique projects in 5 days  
+  🚀 Demonstrating skills in UI/UX, API integration, deployment & more  
+  💡 Created from scratch using best practices and clean code standards.
+
+- 💡 **SkillMatcher (Solo SaaS Startup Idea)** – Building a platform to connect talent & opportunities  
+  💻 Using MERN stack for full implementation  
+  💰 Bootstrapped with zero budget to challenge self-learning & problem-solving skills.
+
+- 🌐 Participated in **Open Source via OWASP for GSoC 2025** – Currently preparing contributions  
+  📚 Learning best practices for secure and scalable coding.
+
+</details>
 
 <details>
   <summary>🚀 Open Source Contributions</summary>
@@ -53,14 +76,10 @@
     
 </details>
 
+<details>
   <summary>🌍 Outside Tech</summary>
    I focus on content creation and enjoy collaborating with teams.
 </details>
-
-
-
-
-
 
 <!--Languages & tools-->
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
@@ -80,6 +99,5 @@
 	<td><strong>Developer Tools</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=github,vscode&theme=dark"></td>
 </tr>
-
 </table>
 <br>
